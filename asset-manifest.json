@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/personal-trainer/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/personal-trainer/static/js/main.c8fd26b1.chunk.js",
-    "main.js.map": "/personal-trainer/static/js/main.c8fd26b1.chunk.js.map",
+    "main.js": "/personal-trainer/static/js/main.8337e3f5.chunk.js",
+    "main.js.map": "/personal-trainer/static/js/main.8337e3f5.chunk.js.map",
     "runtime-main.js": "/personal-trainer/static/js/runtime-main.d1b322ab.js",
     "runtime-main.js.map": "/personal-trainer/static/js/runtime-main.d1b322ab.js.map",
     "static/js/2.7fa81b95.chunk.js": "/personal-trainer/static/js/2.7fa81b95.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.d1b322ab.js",
     "static/js/3.7a12b5cd.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c8fd26b1.chunk.js"
+    "static/js/main.8337e3f5.chunk.js"
   ]
 }
